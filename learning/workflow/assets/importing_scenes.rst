@@ -11,7 +11,7 @@ When dealing with 3D assets, Godot has a very flexible and configurable importer
 Godot works with *scenes*. This means that the entire scene being worked on in your favorite 3D DCC will be
 transfered as close as possible.
 
-Godot supports the following 3D *scene file fomats*: 
+Godot supports the following 3D *scene file formats*: 
 
 * DAE (Collada), which is currently the most mature workflow.
 * GLTF 2.0. Both text and binary formats are supported. Godot has full support for it, but the format is new and gaining traction.
